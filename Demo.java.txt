@@ -2,7 +2,11 @@ public class demo{
 
 public void doprocess(){
 
+int i;
+
+public void x()   {
+
 //logic
 
 }
-}
+}}
